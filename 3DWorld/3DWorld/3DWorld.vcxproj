@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{DFF4ED70-51FC-4C4A-98B9-ECDBF4AEC5A4}</ProjectGuid>
+    <ProjectGuid>{B9074676-0564-49A5-9F81-37029E3108A3}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>My3DWorld</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
